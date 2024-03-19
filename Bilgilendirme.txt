@@ -1,0 +1,5 @@
+İlk Uygulamamız Halı Yıkama Sitesi Olarak Yaptım,
+HTML5 Formatına Uygun Şekilde Yaptım.
+
+Sitemi Sadece HTML Olacak Şekilde Ayarladım,
+CSS Tarafı Yoktur.
